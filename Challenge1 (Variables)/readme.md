@@ -1,6 +1,4 @@
-Sure! Here’s a detailed breakdown of the outcomes of each task in the script, including any errors and their explanations:
-
-# JavaScript Activities and Tasks
+# JavaScript Variables 
 
 ## Activity 1
 ### Task 1
