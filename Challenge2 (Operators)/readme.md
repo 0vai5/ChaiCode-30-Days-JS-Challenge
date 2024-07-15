@@ -197,5 +197,3 @@ Through this activity, the following concepts and skills were practiced and rein
 7. **Functions and IIFE**: Creating functions to encapsulate logic and using Immediately Invoked Function Expressions (IIFE) to execute code immediately.
 8. **String Interpolation**: Using template literals for clear and readable string formatting.
 ```
-
-This `README.md` file now includes a detailed explanation of the script's tasks and a section on the achievements gained from completing the activities.
