@@ -197,3 +197,7 @@ Through this activity, the following concepts and skills were practiced and rein
 7. **Functions and IIFE**: Creating functions to encapsulate logic and using Immediately Invoked Function Expressions (IIFE) to execute code immediately.
 8. **String Interpolation**: Using template literals for clear and readable string formatting.
 ```
+
+---
+
+This repository serves as an educational resource for learning JavaScript programming concepts through practical examples and activities. Each section provides clear examples and explanations to aid understanding and practical application of these concepts.

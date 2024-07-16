@@ -163,3 +163,6 @@ HiteshSir = 'www.chaicode.com'; // This line will cause an error
 
 4. **Template Literals:**
    - Template literals (using backticks) allow embedding expressions within strings using `${expression}`.
+   ---
+
+This repository serves as an educational resource for learning JavaScript programming concepts through practical examples and activities. Each section provides clear examples and explanations to aid understanding and practical application of these concepts.

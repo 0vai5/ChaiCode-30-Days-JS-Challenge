@@ -1,6 +1,3 @@
-Sure! Here's the updated `README.md` file that includes the new activities and tasks, and replaces "How to Run" with "Achievements":
-
-
 # JavaScript Control Structure
 
 This JavaScript script performs various arithmetic operations, comparisons, and conditional checks. The script is divided into several activities and tasks, demonstrating the use of different operators, logical conditions, and switch cases.
@@ -257,3 +254,7 @@ Through this activity, the following concepts and skills were practiced and rein
 6. **Leap Year Calculation**: Implementing the logic to determine if a year is a leap year.
 7. **Reimplementation**: Practicing reimplementation of existing logic to reinforce understanding and code reuse.
 ```
+
+---
+
+This repository serves as an educational resource for learning JavaScript programming concepts through practical examples and activities. Each section provides clear examples and explanations to aid understanding and practical application of these concepts.
