@@ -1,3 +1,7 @@
+It looks like you want to create a README file for the "Chai Code 30 Days JS Challenge" with direct links to each challenge section. Here's an updated version of your README:
+
+---
+
 # Chai Code 30 Days JS Challenge
 
 Welcome to the Chai Code 30 Days JavaScript Challenge by Hitesh Chaudhary. This challenge is designed to improve your understanding and mastery of JavaScript concepts through practical tasks.
@@ -32,12 +36,13 @@ Welcome to the Chai Code 30 Days JavaScript Challenge by Hitesh Chaudhary. This 
 
 To navigate through different challenges, click on the links below:
 
-- **[Challenge 1 (Variables)](./Challenge1 (Variables))**
-- **[Challenge 2 (Operators)](./Challenge2 (Operators))**
-- **[Challenge 3 (Control Structures)](./Challenge3 (Control Structures))**
-- **[Challenge 4 (Loops)](./Challenge4 (Loops))**
-- **[Challenge 5 (Functions)](./Challenge1 (Functions))**
-- **[Challenge 6 (Arrays)](./Challenge1 (Arrays))**
+- **[Challenge 1 (Variables)](./Challenge1%20(Variables))**
+- **[Challenge 2 (Operators)](./Challenge2%20(Operators))**
+- **[Challenge 3 (Control Structures)](./Challenge3%20(Control%20Structures))**
+- **[Challenge 4 (Loops)](./Challenge4%20(Loops))**
+- **[Challenge 5 (Functions)](./Challenge5%20(Functions))**
+- **[Challenge 6 (Arrays)](./Challenge6%20(Arrays))**
+
 
 Each link will direct you to the respective challenge page where you can find specific tasks and instructions related to that challenge.
 
