@@ -32,6 +32,10 @@ Welcome to the Chai Code 30 Days JavaScript Challenge by Hitesh Chaudhary. This 
    - Task description: Work with arrays and array methods.
    - Implementation: Manipulate arrays, perform sorting, filtering, mapping, and other operations.
 
+7. **Challenge 7 - Objects**
+   - Task description: Work with Objects and Object methods.
+   - Implementation: Manipulate Arays, perform Loops, using Object Methods, and other operations.
+
 ## Getting Started
 
 To navigate through different challenges, click on the links below:
@@ -42,6 +46,7 @@ To navigate through different challenges, click on the links below:
 - **[Challenge 4 (Loops)](./Challenge4%20(Loops))**
 - **[Challenge 5 (Functions)](./Challenge5%20(Functions))**
 - **[Challenge 6 (Arrays)](./Challenge6%20(Arrays))**
+- **[Challenge 7 (Objects)](./Challenge7%20(Objects))**
 
 
 Each link will direct you to the respective challenge page where you can find specific tasks and instructions related to that challenge.
