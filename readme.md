@@ -32,6 +32,10 @@ Welcome to the Chai Code 30 Days JavaScript Challenge by Hitesh Chaudhary. This 
    - Task description: Work with Objects and Object methods.
    - Implementation: Manipulate Arays, perform Loops, using Object Methods, and other operations.
 
+8. **Challenge 8 - ES6 + Features** 
+   - Task description: Work with ES6 Features.
+   - Implementation: Destructuring, Template Literals, Arrow Functions, Enhanced Object Literals, and Feature Requests.
+
 ## Getting Started
 
 To navigate through different challenges, click on the links below:
@@ -43,6 +47,7 @@ To navigate through different challenges, click on the links below:
 - **[Challenge 5 (Functions)](./Challenge5%20(Functions))**
 - **[Challenge 6 (Arrays)](./Challenge6%20(Arrays))**
 - **[Challenge 7 (Objects)](./Challenge7%20(Objects))**
+- **[Challenge 8 (ES6 + Features)](./Challenge7%20(ES6+Features))**
 
 
 Each link will direct you to the respective challenge page where you can find specific tasks and instructions related to that challenge.
