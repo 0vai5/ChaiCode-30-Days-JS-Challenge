@@ -49,7 +49,8 @@ To navigate through different challenges, click on the links below:
 - **[Challenge 7 (Objects)](./Challenge7%20(Objects))**
 - **[Challenge 8 (ES6 + Features)](./Challenge8%20(ES6%20+%20Features))**
 - **[Challenge 9 (DOM Manipulation)](./Challenge9%20(DOM%20Manipulation))**
-
+- **[Challenge 10 (Event Handling)](./Challenge10%20(Event%20Handling))**
+- **[Challenge 11 (Promises & Async/Await)](./Challenge11%20(Promises%20%26%20Async/Await))**
 
 Each link will direct you to the respective challenge page where you can find specific tasks and instructions related to that challenge.
 
