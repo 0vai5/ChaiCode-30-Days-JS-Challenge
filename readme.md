@@ -51,6 +51,7 @@ To navigate through different challenges, click on the links below:
 - **[Challenge 9 (DOM Manipulation)](./Challenge9%20(DOM%20Manipulation))**
 - **[Challenge 10 (Event Handling)](./Challenge10%20(Event%20Handling))**
 - **[Challenge 11 (Promises & Async/Await)](./Challenge11%20(Promises%20%26%20Async/Await))**
+- **[Challenge 12 (Error Handling)](./Challenge12%20(Error%20Handling))**
 
 Each link will direct you to the respective challenge page where you can find specific tasks and instructions related to that challenge.
 
